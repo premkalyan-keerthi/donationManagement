@@ -1,0 +1,15 @@
+.reportParentWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reportTable{
+    border: solid 2px black;
+    padding: 5px;
+}
+
+.reportTd{
+    border: solid 2px black;
+    padding: 5px;
+}

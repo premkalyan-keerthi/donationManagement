@@ -1,0 +1,38 @@
+.parentWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.inputsWrapper{
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+
+.customInput{
+    padding: 10px;
+    width: 50%;
+}
+
+.usersSelect{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.loginBtn{
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.category{
+    width: 55%;
+    padding: 10px;
+}
+
+.donationText{
+    color: #7fff00;
+}
